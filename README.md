@@ -6,8 +6,9 @@
 - https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 - https://help.github.com/articles/working-with-ssh-key-passphrases/
 - http://www.cnblogs.com/xjnotxj/p/5845574.html
+- https://help.github.com/articles/about-collaborative-development-models/
 
-## Notes XXX
+## Notes about two GitHub accounts on the same computer
 
 This repo belongs to my personal GitHub account (@qiuyanpeng).
 
@@ -24,4 +25,6 @@ Change local repo settings:
 git config user.name "one_name"
 git config user.email "one_email"
 ```
+
+## Notes about collaborative project
 
