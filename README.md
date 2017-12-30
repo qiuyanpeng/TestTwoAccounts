@@ -8,7 +8,7 @@
 - http://www.cnblogs.com/xjnotxj/p/5845574.html
 - https://help.github.com/articles/about-collaborative-development-models/
 
-## Notes about two accounts on the same computer
+## Notes about two GitHub accounts on the same computer
 
 This repo belongs to my personal GitHub account (@qiuyanpeng).
 
