@@ -6,6 +6,7 @@
 
 This repo belongs to my personal GitHub account (@qiuyanpeng).
 
-If I clone the repo using HTTPS URL, I can `git push` with my corp account (@qypeng) too.
-It's a little bit more work as I need to enter my username and password every time.
+If I clone the repo using HTTPS URL, I can `git push` with my corp account (@qypeng) too,
+but I should use the 'access token' instead of password.
+It's a little bit more work as I need to enter my username and password/token every time.
 
