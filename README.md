@@ -7,6 +7,7 @@
 - https://help.github.com/articles/working-with-ssh-key-passphrases/
 - http://www.cnblogs.com/xjnotxj/p/5845574.html
 - https://help.github.com/articles/about-collaborative-development-models/
+- https://help.github.com/articles/about-pull-requests/
 
 ## Notes about two GitHub accounts on the same computer
 
@@ -27,4 +28,6 @@ git config user.email "one_email"
 ```
 
 ## Notes about collaborative project
+
+What's the workflow??
 
